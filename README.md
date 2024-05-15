@@ -20,4 +20,4 @@ Requisitos:
 - Bibliotecas: pyautogui, pandas
 - Arquivo CSV com os dados dos produtos ("produtos.csv").
 
-link do arquivo csv usado como lista de dados: https://drive.google.com/file/d/14gkhOg64MZu3mlYxYeROuz1-o0wIF_du/view
+link do arquivo csv usado como lista de dados (dados  criados especificamente para testar um sistema): https://drive.google.com/file/d/14gkhOg64MZu3mlYxYeROuz1-o0wIF_du/view
